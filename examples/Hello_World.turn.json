@@ -1,0 +1,19 @@
+{
+  "class": "application",
+  "symbols": {
+    "render": {
+      "class": "consumer",
+      "virtual": true
+    }
+  },
+  "effects": [
+    {
+      "symbol": "render",
+      "events": [
+        {
+          "value": "Hello, world!"
+        }
+      ]
+    }
+  ]
+}

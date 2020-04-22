@@ -1,0 +1,10 @@
+{
+  "name": "turn",
+  "bin": "./main.js",
+  "description": "the turn SDK",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexyuly/turn"
+  }
+}
